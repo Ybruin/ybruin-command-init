@@ -1,15 +1,19 @@
 {
   "name": "ybruin-command-init",
-  "version": "1.0.0",
-  "description": "init project",
+  "version": "0.1.2",
+  "description": "ybruin init command",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "huangxiaoyan",
-  "license": "ISC",
-  "devDependencies": {
+  "keywords": [
+    "ybruin"
+  ],
+  "author": "Ybruin Team",
+  "license": "MIT",
+  "dependencies": {
     "colors": "^1.1.2",
-    "yeoman-generator": "^0.24.1"
+    "yeoman-generator": "^0.24.1",
+    "generator-ybruin": "^0.1.0"
   }
 }
