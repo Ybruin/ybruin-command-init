@@ -1,6 +1,6 @@
 {
   "name": "ybruin-command-init",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "ybruin init command",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "colors": "^1.1.2",
-    "yeoman-generator": "^0.24.1",
+    "yeoman-generator": "0.20.0",
     "generator-ybruin": "^0.1.0"
   }
 }
